@@ -1,2 +1,1 @@
-# VR_Drone
-VR Drone
+# BaseProjectVR
